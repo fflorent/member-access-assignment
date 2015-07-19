@@ -1,5 +1,6 @@
-# Member Access Assignment (=.) operator
-Sweet.js macro that introduces the Member Access Assignment (=.) operator.
+# Member Access Assignment (=.) operator [![NPM version](https://badge.fury.io/js/member-access-assignment.svg)](http://badge.fury.io/js/member-access-assignment) [![Build status](https://travis-ci.org/gruntjs/member-access-assignment.png?branch=master)](https://travis-ci.org/gruntjs/member-access-assignment)
+
+> Sweet.js macro that introduces the Member Access Assignment (=.) operator.
 
 Basically, that would expand these two expressions:
 ````javascript
