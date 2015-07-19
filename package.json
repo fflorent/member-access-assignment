@@ -1,0 +1,24 @@
+{
+  "name": "member-access-assignment",
+  "version": "0.0.1",
+  "description": "Sweet.js macro which introduces operator \"=.\"",
+  "main": "index.sjs",
+  "author": "Florent Fayolle",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.1.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "grunt-sweet.js": "^0.1.5",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0",
+    "sweet.js": "^0.7.4"
+  },
+  "tags": [
+    "sweet-macros",
+    "sweet",
+    "sweet.js"
+  ]
+}
