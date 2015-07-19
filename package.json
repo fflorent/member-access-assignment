@@ -1,6 +1,6 @@
 {
   "name": "member-access-assignment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sweet.js macro which introduces operator \"=.\"",
   "main": "index.sjs",
   "author": "Florent Fayolle",
