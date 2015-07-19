@@ -1,4 +1,6 @@
-# Member Access Assignment (=.) operator [![NPM version](https://badge.fury.io/js/member-access-assignment.svg)](http://badge.fury.io/js/member-access-assignment) [![Build status](https://travis-ci.org/gruntjs/member-access-assignment.png?branch=master)](https://travis-ci.org/gruntjs/member-access-assignment)
+# Member Access Assignment (=.) operator
+
+[![NPM version](https://badge.fury.io/js/member-access-assignment.svg)](http://badge.fury.io/js/member-access-assignment) [![Build Status](https://travis-ci.org/fflorent/member-access-assignment.svg?branch=master)](https://travis-ci.org/fflorent/member-access-assignment)
 
 > Sweet.js macro that introduces the Member Access Assignment (=.) operator.
 
